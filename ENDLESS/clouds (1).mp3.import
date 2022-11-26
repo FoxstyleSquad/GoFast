@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/clouds (1).mp3-8e52530af503b7173f9810656a0d22e6.mp3str"
+
+[deps]
+
+source_file="res://clouds (1).mp3"
+dest_files=[ "res://.import/clouds (1).mp3-8e52530af503b7173f9810656a0d22e6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
