@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/great-victory-the-legend-of-zelda-a-link-to-the-past.mp3-a253c50af3f82e9ca66ffd05bf120aad.mp3str"
+
+[deps]
+
+source_file="res://great-victory-the-legend-of-zelda-a-link-to-the-past.mp3"
+dest_files=[ "res://.import/great-victory-the-legend-of-zelda-a-link-to-the-past.mp3-a253c50af3f82e9ca66ffd05bf120aad.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

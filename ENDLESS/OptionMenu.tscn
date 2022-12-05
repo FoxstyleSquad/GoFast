@@ -1,0 +1,86 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://OptionMenu.gd" type="Script" id=1]
+[ext_resource path="res://dream-chaser-123869.mp3" type="AudioStream" id=2]
+[ext_resource path="res://who_asks_satan/who asks satan.ttf" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 100
+font_data = ExtResource( 3 )
+
+[node name="OptionMenu" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0.215686, 0.215686, 0.215686, 1 )
+
+[node name="Label" type="Label" parent="ColorRect"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -104.0
+margin_right = -62.0
+margin_bottom = 14.0
+custom_fonts/font = SubResource( 1 )
+text = "option"
+
+[node name="Button" type="Button" parent="ColorRect"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -25.0
+margin_top = -65.0
+margin_right = 25.0
+margin_bottom = -15.0
+text = "back"
+
+[node name="Label2" type="Label" parent="ColorRect"]
+margin_left = 19.0
+margin_top = 138.0
+margin_right = 74.0
+margin_bottom = 152.0
+rect_scale = Vector2( 2, 2 )
+text = "VOLUME MUSIC:"
+
+[node name="CheckButton1" type="CheckButton" parent="ColorRect/Label2"]
+margin_left = 105.0
+margin_top = -12.5
+margin_right = 181.0
+margin_bottom = 27.5
+pressed = true
+
+[node name="Label3" type="Label" parent="ColorRect"]
+margin_left = 425.0
+margin_top = 138.0
+margin_right = 530.0
+margin_bottom = 152.0
+rect_scale = Vector2( 2, 2 )
+text = "VOLUME SOUND:"
+
+[node name="CheckButton2" type="CheckButton" parent="ColorRect/Label3"]
+margin_left = 105.0
+margin_top = -12.5
+margin_right = 181.0
+margin_bottom = 27.5
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 2 )
+autoplay = true
+
+[node name="Label" type="Label" parent="."]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -153.0
+margin_top = -31.0
+text = "Gabriel Jordan-Riendeau
+A21"
+
+[connection signal="pressed" from="ColorRect/Button" to="." method="_on_Button_pressed"]
+[connection signal="button_up" from="ColorRect/Label2/CheckButton1" to="." method="_on_CheckButton1_button_up"]
+[connection signal="button_up" from="ColorRect/Label3/CheckButton2" to="." method="_on_CheckButton2_button_up"]

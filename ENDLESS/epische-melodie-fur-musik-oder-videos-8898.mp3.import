@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/epische-melodie-fur-musik-oder-videos-8898.mp3-a0764067d0f93c1b1d024c44d4f8b0b2.mp3str"
+
+[deps]
+
+source_file="res://epische-melodie-fur-musik-oder-videos-8898.mp3"
+dest_files=[ "res://.import/epische-melodie-fur-musik-oder-videos-8898.mp3-a0764067d0f93c1b1d024c44d4f8b0b2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

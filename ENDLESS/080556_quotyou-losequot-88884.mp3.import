@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/080556_quotyou-losequot-88884.mp3-43d42289a61f1213d902c5bc0e6842ee.mp3str"
+
+[deps]
+
+source_file="res://080556_quotyou-losequot-88884.mp3"
+dest_files=[ "res://.import/080556_quotyou-losequot-88884.mp3-43d42289a61f1213d902c5bc0e6842ee.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
