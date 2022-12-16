@@ -34,7 +34,7 @@ pour maider a faire ce mecanisme, je me suis aider de ce video youtube qui expli
 
 ## passon a mon deuxieme concept utiliser dans mon mon jeu qui est:
 
---
+---
 
 #### le Shader!
 
