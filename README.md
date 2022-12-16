@@ -72,7 +72,7 @@ afin de pouvoir passer un exellent moment
 
 ---
 
-bref au final le but de ce projet est de samuser tout en ecoutant de douce melodie qui on ete cree par MOI MEME :DD  
+bref au final le but de ce projet est de samuser tout en ecoutant de douces melodies qui on ete crees par MOI MEME :DD  
 vous pouvez avoir acces a mes musique sur ma page youtube grace a ce lien  
 [youtube](https://www.youtube.com/playlist?list=PLz8gkMFINKnlYDet8ZrGk-yhVnvZ8GGOW)
 
