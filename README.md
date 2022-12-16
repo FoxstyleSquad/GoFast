@@ -2,7 +2,7 @@
 
 createur : Gabriel Jordan-Riendeau
 
-Dans mon projet, je me suis inspire du mecanisme du fameux jeux de plateforme Geometrie Dash qui est un mecanisme de Die and Retry qui consiste globalement en quelque mots;  
+Dans mon projet, je me suis inspire du mecanisme du fameux jeux de plateforme Geometrie Dash qui est un mecanisme de **Die and Retry** qui consiste globalement en quelque mots;  
 tu meurs...
 
 ### tu RECOMMENCE!
@@ -10,7 +10,11 @@ tu meurs...
 Mais plus serieusement , il y a dans mon jeux, un mecanisme qui permet de faire un clone de mon background  
 sans avoir a le dubliquer dans mes fichier de jeux et il se nomme:
 
+---
+
 #### le parallax background
+
+---
 
 (le defilement parallax)
 
@@ -28,8 +32,17 @@ L'illusion a longtemps ete adoptee en parallaxe sur differents supports, favoris
 pour maider a faire ce mecanisme, je me suis aider de ce video youtube qui explique comment en realiser un  
 [tutoriel parallax](https://www.youtube.com/watch?v=f8z4x6R7OSM)
 
+## passon a mon deuxieme concept utiliser dans mon mon jeu qui est:
+
+--
+
+#### le Shader!
+
 ---
 
-+++++++++++++++++++++++++++++++++++++++++
+Les shaders sont un type particulier de programme qui s'execute sur des unites de traitement graphique (GPU).  
+ Ils etaient initialement utilises pour ombrager des scenes 3D mais peuvent aujourd'hui faire beaucoup plus.  
+ Vous pouvez les utiliser pour controler la facon dont le moteur dessine la geometrie et les pixels a l'ecran, ce qui vous permet d'obtenir toutes sortes d'effets.  
+voici un exemple deffet que vous pouver realiser grace aux sahders.
 
----
+[shader](https://godotshaders.com/wp-content/uploads/2021/01/Z1ux82ZRtA.gif)
