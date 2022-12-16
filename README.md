@@ -45,7 +45,7 @@ Les shaders sont un type particulier de programme qui s'execute sur des unites d
  Vous pouvez les utiliser pour controler la facon dont le moteur dessine la geometrie et les pixels a l'ecran, ce qui vous permet d'obtenir toutes sortes d'effets.  
 voici un exemple deffet que vous pouver realiser grace aux sahders.
 
-[shader](https://godotshaders.com/wp-content/uploaire.
+[shader](https://godotshaders.com/wp-content/uploaire)
 
 dans mon jeux le shader est utiliser pour realiser une sorte de brouillard qui est visible uniquement dans le niveau 1
 cette sorte de sads/2021/01/Z1ux82ZRtA.gif)
