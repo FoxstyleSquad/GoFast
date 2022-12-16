@@ -52,6 +52,30 @@ cette sorte de sads/2021/01/Z1ux82ZRtA.gif)
 
 comme vous avez pus constatez , le shader permet non seulement d'ajouter un texture sur un objet ou  
 un personnage, mais peut aussi rendre votre jeux beaucoups plus joli. exemple vous aimeriez avoir une sorte d'ombrage,  
-le shader peut vous le fhader est appeler **brouillard procedurale** et je me suis inspirer de cette video pour le realiser
+le shader qui peut vous aider est appeler **brouillard procedurale** et je me suis inspirer de cette video pour le realiser
 
 [video](https://www.youtube.com/watch?v=QEaTsz_0o44)
+
+---
+
+il existe plusieurs autres concept dans mon jeux mais jeu vous laisse les trouver et vous amusez avec.
+
+---
+
+#### aide integrer
+
+---
+
+dans mon jeux, vous pouvez retrouver dans la page du menu un bouton **how to play** qui, en  
+cliquant dessus vous permet de vous rendre sur une page expliquant comment jouer et sur quel bouton presser  
+afin de pouvoir passer un exellent moment
+
+---
+
+bref au final le but de ce projet est de samuser tout en ecoutant de douce melodie qui on ete cree par MOI MEME :DD  
+vous pouvez avoir acces a mes musique sur ma page youtube grace a ce lien  
+[youtube](https://www.youtube.com/playlist?list=PLz8gkMFINKnlYDet8ZrGk-yhVnvZ8GGOW)
+
+sur ce...
+
+### BON JEUX!
